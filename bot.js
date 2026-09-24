@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-  host: '144.31.46.3',
-  port: 13221,
+  host: 'sevensins.mcsh.io',
+  port: 25565,
   username: 'sinssevendz',
   auth: 'offline',
   version: false // يخلي mineflayer يختار النسخة تلقائياً
