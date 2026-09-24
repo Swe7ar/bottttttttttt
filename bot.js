@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-  host: 'sevensins.mcsh.io',
+  host: '144.31.46.3',
   port: 13221,
   username: 'sinssevendz',
   auth: 'offline',
